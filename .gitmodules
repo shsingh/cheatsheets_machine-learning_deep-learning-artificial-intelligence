@@ -1,0 +1,9 @@
+[submodule "stanford-cs-229-machine-learning"]
+	path = stanford-cs-229-machine-learning
+	url = https://github.com/afshinea/stanford-cs-229-machine-learning.git
+[submodule "stanford-cs-230-deep-learning"]
+	path = stanford-cs-230-deep-learning
+	url = https://github.com/afshinea/stanford-cs-230-deep-learning.git
+[submodule "stanford-cs-221-artificial-intelligence"]
+	path = stanford-cs-221-artificial-intelligence
+	url = https://github.com/afshinea/stanford-cs-221-artificial-intelligence.git
